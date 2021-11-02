@@ -1,5 +1,5 @@
 import requests,os,json
-import elite
+import elite2
 
 P = "\x1b[0;97m" # Putih
 M = "\x1b[0;91m" # Merah
